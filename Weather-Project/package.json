@@ -1,0 +1,18 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "Weather-Project",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "parcel": "^2.7.0"
+  }
+}
